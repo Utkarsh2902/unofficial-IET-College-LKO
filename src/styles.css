@@ -367,6 +367,7 @@ p{
     }
     .row {
         flex-direction: column;
+        text-align: center;
     }
 }
 
@@ -573,10 +574,11 @@ p{
     border-radius: 15px;
 }
 .but{
+    
     background-color:black;
     border: none;
     color: white;
-    padding: 15px 32px;
+    padding: 5px 8px;
     text-align: center;
     text-decoration: none;
     font-size: 16px;
@@ -965,9 +967,18 @@ hr {
     font-size: 13px;
     background: transparent;
     cursor: pointer;
-    text-shadow: 2px 2px 10px black;
 }
 li{
     color: #999;
 }
 
+/* placement card company  image */
+.rower {
+    display: flex;
+    align-items: center;
+  }
+  
+  .columner {
+    flex: 33.33%;
+    padding: 5px;
+  }
