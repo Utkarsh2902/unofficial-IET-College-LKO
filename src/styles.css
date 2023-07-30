@@ -271,6 +271,7 @@ p{
     font-weight: 450;
     line-height: 30px;
     padding: 10px;
+    text-align: justify;
 }
 .row {
     
@@ -314,7 +315,7 @@ p{
     font-weight: 450;
     line-height: 30px;
     padding: 10px;
-    text-align: justify;
+    text-align: initial;
 }
 
 
@@ -349,7 +350,7 @@ p{
     font-weight: 450;
     line-height: 30px;
     padding: 10px;
-    text-align: justify;
+    text-align: initial;
 }
 
 
@@ -635,7 +636,7 @@ p{
     line-height: 30px;
     padding: 1px;
     padding-right: 5px;
-    text-align: justify;
+    text-align: initial;
 }
 
 .testimonials-col h3 {
