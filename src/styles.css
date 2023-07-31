@@ -271,7 +271,7 @@ p{
     font-weight: 450;
     line-height: 30px;
     padding: 10px;
-    text-align: justify;
+    /* text-align: justify; */
 }
 .row {
     
